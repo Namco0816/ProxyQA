@@ -1,11 +1,11 @@
 # Readme
 
-<aside>
-💡 **The official Repo of the paper “[PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models](https://arxiv.org/abs/2401.15042)”**
+## 💡 The official Repo of the paper [PROXYQA: An Alternative Framework for Evaluating Long-Form Text Generation with Large Language Models](https://arxiv.org/abs/2401.15042) 
 
-</aside>
 
 ---
+
+![ProxyQA](fig/Untitled.png)
 
 ## Getting Started
 
@@ -30,6 +30,6 @@ print(proxy_qa)
 
 The distribution of the covered domain
 
-![Untitled](fig/Untitled.png)
+![Domain Distribution](fig/Untitled%201.png)
 
 The leaderboard will be available at [proxy-qa](proxy-qa.com), currently it is still work in progress.
