@@ -32,4 +32,4 @@ The distribution of the covered domain
 
 ![Domain Distribution](fig/Untitled%201.png)
 
-The leaderboard will be available at [proxy-qa](proxy-qa.com), currently it is still work in progress.
+The leaderboard will be available at [proxy-qa](https://proxy-qa.com), currently it is still work in progress.
